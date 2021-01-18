@@ -38,22 +38,22 @@ footer {
 
     margin: 10px;
 
-    border: 2px solid white;
-    border-image-source: url('./corner1.svg');
-    border-image-width: 0.6rem;
+    border: 0.25rem solid white;
+    border-image-source: url('./corner1blackSolid.svg');
+    border-image-width: 0.85rem;
     border-image-slice: 40% 40%; 
-    border-radius: 1rem;
 
     padding: 3rem 2rem;
 
     height: var(--card-height);
 
+    background: #444;
     text-align: center;
 }
 .shipPlaceHolder {
     height: 5rem;
     width: 5rem;
-    background: grey;
+    background: white;
     margin: auto;
     margin-bottom: 2rem;
 }
@@ -69,4 +69,23 @@ footer {
 .propsListing>p:nth-child(odd) {
     margin-right: 1rem;
 }
+.button1 {
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+    color: white;
+    background: black;
+    padding: 0.75rem 0; 
+    width: 9rem;
+    text-align: center;
+    text-decoration: none;
+    border: 0.25rem solid white;
+    border-image-source: url('./corner1.svg');
+    border-image-width: 0.6rem;
+    border-image-slice: 40% 40%; 
+    border-radius: 1rem;
 
+}
+
+.button1 {
+    margin: 2rem;
+}

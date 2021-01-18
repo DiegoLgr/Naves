@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="229.75119mm"
+   height="229.75117mm"
+   viewBox="0 0 229.75119 229.75119"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="corner1blackSolid.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <g
+         id="g210">
+        <g
+           id="g206"
+           transform="translate(-285.32134,-33.626286)">
+          <g
+             id="g204"
+             style="fill:#000000" />
+        </g>
+        <path
+           id="path208"
+           style="fill:#000000;stroke-width:0.461711"
+           d="M -169.88671,-4.2789063 V 12.111824 28.502555 h -16.39073 -16.39073 v 49.172193 49.172192 h 16.39073 16.39073 v 16.39073 16.39073 h 48.94171 48.941202 v -16.39073 -16.39073 h 16.621726 16.621723 V 77.674748 28.502555 H -55.382072 -72.003798 V 12.111824 -4.2789063 H -120.945 Z m 0,32.7814613 h -32.82159 v -32.82159 h 32.82159 z M -38.60033,159.78893 h -32.82159 v -32.82159 h 32.82159 z M -235.5299,94.145744 V 61.324157 h 32.82159 v 32.821587 z m 32.8216,32.821596 V 94.145754 h -32.82159 v 32.821586 z m 98.46478,32.82159 h -32.82159 v 32.82159 h 32.82159 z m -65.64318,0 h -32.82159 v -32.82159 h 32.82159 z m 98.46477,32.8216 h -32.82159 v -32.82159 h 32.82159 z M -202.7083,61.324146 h -32.82159 V 28.502555 h 32.82159 z m 65.64319,98.464784 h -32.82159 v 32.82159 h 32.82159 z M -5.77874,61.324146 V 94.145734 H -38.60033 V 61.324146 Z M -38.60033,28.502559 V 61.32415 H -5.77874 V 28.502559 Z m -98.46478,-32.82159 h 32.82159 v -32.821591 h -32.82159 z m 65.64318,0 h 32.82159 v 32.82159 h -32.82159 z m -98.46478,-32.821595 h 32.82159 v 32.82159 h -32.82159 z m 131.28638,131.28637 h 32.82159 v 32.821586 h -32.82159 z m -65.64319,-98.464775 h 32.82159 v -32.821591 h -32.82159 z" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57304931"
+     inkscape:cx="32.652304"
+     inkscape:cy="257.87362"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     showguides="false">
+    <sodipodi:guide
+       position="-213.82524,263.51781"
+       orientation="1,0"
+       id="guide1088" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.216847,2.5326718)">
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.216857,-2.5326718 H 115.86004 V 30.329046 L 83.038454,30.288916 V 63.110503 H 50.216857 Z"
+       id="path1092" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 279.96803,-2.5326718 V 63.110518 h -32.86172 l 0.0401,-32.82159 H 214.32483 V -2.5326718 Z"
+       id="path1092-3" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.96802,227.2185 h -65.64318 v -32.86172 l 32.82159,0.0401 v -32.82159 h 32.82159 z"
+       id="path1092-6" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.216847,227.21847 v -65.64319 h 32.861721 l -0.0401,32.82159 h 32.821592 v 32.8216 z"
+       id="path1092-7" />
+  </g>
+</svg>

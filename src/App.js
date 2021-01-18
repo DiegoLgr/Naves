@@ -2,6 +2,18 @@ import './App.css';
 
 
 /* ==================== MOSAIC LIST ==================== */
+
+function Button1(props){
+    const button = 
+        <button className="button1">
+            {props.text}
+        </button>
+    return button;
+}
+
+
+
+/* ==================== MOSAIC LIST ==================== */
 function ShipCard(props){
     const card =
         <div>
@@ -33,6 +45,7 @@ function App() {
   const ships = ['nave1','nave2', 'nave3', 'nave4'];
   return (
     <div className="App">
+        <Button1 text="Hola" ></Button1>
         <MosaicList ships={ships}/>
         <footer>fin de app</footer>
     </div>
