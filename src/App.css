@@ -1,9 +1,19 @@
-*{ color: white; }
-
-.App{ 
-    height: 100vh;
-    background: black;
+h1 {
+    color: white;
+    /*font-family: 'Roboto Mono', sans-serif;*/
+    font-family: 'VT323', monospace;
+    line-height: 60%;
+    margin: 0;
+    font-size: 2.3rem;
 }
+p {
+    color: white;
+    font-family: 'Roboto Mono', sans-serif;
+    /*font-family: 'VT323', monospace;*/
+    line-height: 80%;
+    margin: 0;
+}
+
 footer {
     background: grey;
     text-align: center;
@@ -13,17 +23,50 @@ footer {
     bottom: 0;
 }
 
+.App{ 
+    height: 100vh;
+    background: black;
+}
+
 .mosaicListWrapper {
     display: flex;
     flex-wrap: wrap;
 }
 .mosaicListWrapper > div{
-    background: grey;
-    height: 100px;
-    width: 100px;
+    --card-height: 15rem;
+    --card-width: 13rem;
+
     margin: 10px;
-    padding: 5px;
+
+    border: 2px solid white;
+    border-image-source: url('./corner1.svg');
+    border-image-width: 0.6rem;
+    border-image-slice: 40% 40%; 
+    border-radius: 1rem;
+
+    padding: 3rem 2rem;
+
+    height: var(--card-height);
+
     text-align: center;
 }
-
+.shipPlaceHolder {
+    height: 5rem;
+    width: 5rem;
+    background: grey;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+.propsListing {
+    display: grid;
+    margin-top: 0.3rem;
+    grid-template-columns: 1fr 1fr;
+}
+.propsListing>p {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+}
+.propsListing>p:nth-child(odd) {
+    margin-right: 1rem;
+}
 

@@ -7,7 +7,13 @@ function ShipCard(props){
         <div>
             <div className="shipPlaceHolder">
             </div>
-            <p>{props.ship}</p>
+            <h1>{props.ship}</h1>
+            <div className="propsListing">
+                <p>Speed: 200</p>
+                <p>wight: 200</p>
+                <p>range: 200</p>
+                <p>power: 200</p>
+            </div>
         </div>
 
     return card;
